@@ -1,4 +1,5 @@
-{
+[
+    {
     "drink-name": "Scooby Snack",
     "taste-cat": "sweet",
     "drink-style": "shot",
@@ -7,4 +8,15 @@
     "tools": "shaker\nJigger\nHawthorne Strainer",
     "recipe": "1. Pour all into a cocktail shaker with ice\n2. Shake vigourously to mix\n3. Strain into a shot glass",
     "img-addrs": "images/RecipeFeature/scooby-snack-shot.jpeg"
-}
+    },
+    {
+    "drink-name": "Scooby Snack2",
+    "taste-cat": "sweet2",
+    "drink-style": "shot2",
+    "liqour-cat": "rum2",
+    "ingredients": "1/2 oz coconut rum\n1/2 oz Melon Liqueur\n1/2 oz Melon Liqueur\n1/4 oz Pineapple Juice\n1/4 oz heavy cream2",
+    "tools": "shaker\nJigger\nHawthorne Strainer2",
+    "recipe": "1. Pour all into a cocktail shaker with ice\n2. Shake vigourously to mix\n3. Strain into a shot glass2",
+    "img-addrs": "images/RecipeFeature/scooby-snack-shot.jpeg2"
+    }
+ ]
