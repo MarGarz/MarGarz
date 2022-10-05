@@ -10,13 +10,53 @@
     "imgAddrs": "images/RecipeFeature/scooby-snack-shot.jpeg"
     },
     {
-    "drinkName": "Scooby Snack2",
-    "tasteCat": "sweet2",
-    "drinkStyle": "shot2",
-    "liqourCat": "rum2",
-    "ingredients": "1/2 oz coconut rum\n1/2 oz Melon Liqueur\n1/2 oz Melon Liqueur\n1/4 oz Pineapple Juice\n1/4 oz heavy cream2",
-    "tools": "shaker\nJigger\nHawthorne Strainer2",
-    "recipe": "1. Pour all into a cocktail shaker with ice\n2. Shake vigourously to mix\n3. Strain into a shot glass2",
-    "imgAddrs": "images/RecipeFeature/scooby-snack-shot.jpeg2"
-    }
+    "drinkName": "Mexican Candy",
+    "tasteCat": "spicy",
+    "drinkStyle": "shot",
+    "liqourCat": "tequila",
+    "ingredients": "lime juice or water for the rim\ntajin for the rim\n1 ounce tequila\n1/2 ounce watermelon schnapps\n2 dashes hot sauce",
+    "tools": "shaker",
+    "recipe": "1. dip the rim of the shot glass or shot glasses in a little lime juice.\n2. dip the edge of your shot glass into a plate that is covered in some tajin. Set aside.\n3. In a shaker with ice cubes, combine tequila, watermelon schnapps, and hot sauce.\n4. Shake well for at least 10 seconds.\n5. Pour the mixture into a small glass or shot glass. \n6.Add a watermelon wedge or lime wedge as a garnish.",
+    "imgAddrs": "images/RecipeFeature/Mexican-candy-shot.jpeg"
+    },
+    {
+    "drinkName": "Hurricane shot",
+    "tasteCat": "sour",
+    "drinkStyle": "shot",
+    "liqourCat": "rum",
+    "ingredients": "2 ounces light rum\n2 ounces dark rum\n3 ounces Passion Fruit juice (or juice blend)\n3 ounces orange juice\nJuice of half a lime\n2 tablespoons grenadine syrup\nOrange slices\nmaraschino cherries for garnish, if desired\nIce cubes",
+    "tools": "shaker",
+    "recipe": "1. Fill cocktail glass(es) with ice. Squeeze the lime over the ice.\n2. Stir remaining ingredients together in a mixing glass.\n3. Pour into cocktail glass.\n4. Garnish with and orange slice and a cherry, if desired.",
+    "imgAddrs": "images/RecipeFeature/hurricane-cocktail.jpeg"
+    },
+    {
+    "drinkName": "Hurricane Cocktail",
+    "tasteCat": "sweet",
+    "drinkStyle": "cocktail",
+    "liqourCat": "rum",
+    "ingredients": "2 ounces light rum\n2 ounces dark rum\n1 ounce lime juice, freshly squeezed\n1 ounce orange juice, freshly squeezed\n1/2 ounce passion fruit puree\n1/2 ounce simple syrup\n1 teaspoon grenadine\nGarnish: orange half-wheel\nGarnish: preserved cherry",
+    "tools": "shakerH",
+    "recipe": "Add the light and dark rums, lime and orange juices, passion fruit puree, simple syrup and grenadine into a shaker with ice and shake until well-chilled.\nStrain into a large Hurricane glass over fresh ice.\nGarnish with an orange half-wheel and a preserved cherry.",
+    "imgAddrs": "images/RecipeFeature/hurricane-cocktail2.jpeg"
+    },
+    {
+    "drinkName": "Green Tea Shot",
+    "tasteCat": "sweet",
+    "drinkStyle": "shot",
+    "liqourCat": "Whiskey",
+    "ingredients": "1/2 ounce Irish Whiskey, such as Jameson (15 ml)\n1/2 ounce Peach Schnapps (15 ml)\n1/2 ounce Sour Mix (15 ml)\nSplash of Sprite or other lemon-lime soda\n2 - 4 ice cubes",
+    "tools": "shaker\nstrainer",
+    "recipe": "Combine the whiskey, peach schnapps, and sour mix in a cocktail shaker with a couple of ice cubes.\nShake for about 10 seconds to combine all of the ingredients.\nPour your shot glasses 3/4 full with the green tea shot mixture, using the bar strainer to keep the ice from falling in.\nTop off each shot with the lemon-lime soda.\nEnjoy your green tea shot shortly after it's prepared.",
+    "imgAddrs": "images/RecipeFeature/green-tea-shot.jpeg"
+    },
+    {
+    "drinkName": "Candy Corn Shot",
+    "tasteCat": "sweet",
+    "drinkStyle": "shot, seasonal",
+    "liqourCat": "herbal liqueur",
+    "ingredients": "½ ounce Galliano liqueur\n½ ounce orange liqueur\n¼ ounce heavy cream",
+    "tools": "bar spoon",
+    "recipe": "In a shot glass, add Galliano liqueur.\nAdd orange liqueur layer by pouring slowly down the back of a bar spoon.\ncandy-cornAdd the final layer by pouring heavy cream slowly down the back of a clean bar spoon.",
+    "imgAddrs": "images/RecipeFeature/candy-corn-shot.jpeg"
+    },
  ]
